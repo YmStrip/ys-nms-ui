@@ -1,0 +1,2 @@
+根据window大小持续传值
+slot=window,height number
